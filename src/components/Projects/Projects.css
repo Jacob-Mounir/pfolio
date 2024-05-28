@@ -1,0 +1,17 @@
+.project-section {
+	padding: 3em;
+	background-color: #06262c;
+	height: auto;
+	display: grid;
+	gap: 1em;
+	justify-content: center;
+	align-items: center;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+
+}
+
+.dynamic-text *{
+	color: rgba(0, 255, 255, 0.596);
+	font-size: 64px;
+	width: 320px;
+}

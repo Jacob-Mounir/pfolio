@@ -1,7 +1,7 @@
 import pokemon from '/pokemon.jpg'
 import cloud from '/clouds.png'
-import oasis from '/oasis.png'
 import masafejuja from '/masafejuja.png'
+import oasis from '/oasis.png'
 
 const projects = [
 	{

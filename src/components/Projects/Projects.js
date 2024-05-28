@@ -15,7 +15,7 @@ const projects = [
 	{
 		image: masafejuja,
 		title: 'Masafejuja',
-		lang: 'React, UI/UX',
+		lang: 'React, CSS, UI/UX',
 		desc: 'School project for a fine dining restaurant',
 		link: 'https://ha-fed23-js-2.github.io/ruby-bananas/'
 	},
